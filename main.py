@@ -2,9 +2,9 @@ def password(x):
     enteredPassword = input("what is the password")
 
     if enteredPassword == "Knights19":
-       print("access granted") 
+       print("ACCESS GRANTED") 
 
     else: 
-        print("access denied")
-
+        print("ACCSESS DENIED")
+    password()
 
