@@ -1,7 +1,7 @@
-def password(x):
+def password(p):
     enteredPassword = input("what is the password")
 
-    if enteredPassword == "Knights19":
+    if p == "Knights19":
        print("ACCESS GRANTED") 
 
     else: 
