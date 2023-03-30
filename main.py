@@ -5,6 +5,6 @@ def password(p):
        return"ACCESS GRANTED"
 
     else: 
-        return"ACCSESS DENIED"
+        return"ACCESS DENIED"
     
 
